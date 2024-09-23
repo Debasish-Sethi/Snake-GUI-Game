@@ -4,8 +4,8 @@ import random
 # Constants defining game window size, speed, space size, and colors
 GAME_WIDTH = 700
 GAME_HEIGHT = 700
-SPEED = 100  # Speed of the game (time delay in milliseconds between moves)
-SPACE_SIZE = 50  # Size of each square (both for snake and food)
+SPEED = 120  # Speed of the game (time delay in milliseconds between moves)
+SPACE_SIZE = 20  # Size of each square (both for snake and food)
 BODY_PARTS = 3  # Initial number of snake body parts
 SNAKE_COLOR = "#00FF00"  # Green color for snake
 FOOD_COLOR = "#FF0000"  # Red color for food
